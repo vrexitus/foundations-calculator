@@ -1,0 +1,18 @@
+h1{
+    font-size: 60px;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    background-color: red;
+    flex-direction: column;
+}
+
+.display-container{
+
+}
+
+.buttons-container{
+
+}
